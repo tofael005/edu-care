@@ -1,0 +1,82 @@
+[
+   {
+       "class_name": "Football Zone",
+       "class_image": "https://i.ibb.co/V9RcPcf/Squad-Locker-school-sports-uniforms.jpg",
+       "instructor_name": "Morgan Jhon",
+       "instructor_email": "morgan@jhon.com",
+       "avilable_seats": "23",
+       "price": 20,
+       "enroll": 133,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Cricket Academy",
+       "class_image": "https://i.ibb.co/Mf99xCm/cricket-101012.jpg",
+       "instructor_name": "Cris Marn",
+       "instructor_email": "cris@mark.com",
+       "avilable_seats": "13",
+       "price": 27,
+       "enroll": 780,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Hockey",
+       "class_image": "https://i.ibb.co/CMYhMMH/omhs-lacrosse-players.jpg",
+       "instructor_name": "Tonald Sons",
+       "instructor_email": "tonald@sons.com",
+       "avilable_seats": "33",
+       "price": 37,
+       "enroll": 980,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Rugvy Sports Zone",
+       "class_image": "https://i.ibb.co/mvZXWpz/Athlete-friendly-environment-at-Singapore-Sports-School-helps-nurture-champions.jpg",
+       "instructor_name": "Michek Elien",
+       "instructor_email": "michel@elien.com",
+       "avilable_seats": "30",
+       "price": 40,
+       "enroll": 1190,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Vally Play Zone",
+       "class_image": "https://i.ibb.co/26yr17G/in-school-sport-program.png",
+       "instructor_name": "Haider Hasin",
+       "instructor_email": "haider@hasin.com",
+       "avilable_seats": "19",
+       "price": 30,
+       "enroll": 590,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Bascket Academy",
+       "class_image": "https://i.ibb.co/1b9Dk0M/SHA-6442-min.jpg",
+       "instructor_name": "Haider Hasin",
+       "instructor_email": "haider@hasin.com",
+       "avilable_seats": "19",
+       "price": 30,
+       "enroll": 1280,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Bascket Academy",
+       "class_image": "https://i.ibb.co/JrC1197/bask1.jpg",
+       "instructor_name": "Haider Hasin",
+       "instructor_email": "haider@hasin.com",
+       "avilable_seats": "19",
+       "price": 30,
+       "enroll": 1080,
+       "status": "Approved"
+  },
+   {
+       "class_name": "Bascket Academy",
+       "class_image": "https://i.ibb.co/1b9Dk0M/SHA-6442-min.jpg",
+       "instructor_name": "Haider Hasin",
+       "instructor_email": "haider@hasin.com",
+       "avilable_seats": "19",
+       "price": 30,
+       "enroll": 1280,
+       "status": "Approved"
+  }
+]

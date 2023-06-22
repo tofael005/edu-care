@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    @apply text-red-600 font-bold border p-2 rounded-full border-sky-800
+}

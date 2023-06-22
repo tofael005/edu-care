@@ -1,0 +1,47 @@
+{
+  "name": "cd",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.1.0",
+    "@stripe/stripe-js": "^1.54.0",
+    "aos": "^2.3.4",
+    "axios": "^1.4.0",
+    "firebase": "^9.22.1",
+    "helmet": "^7.0.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-awesome-reveal": "^4.2.3",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^1.3.0",
+    "react-hook-form": "^7.44.3",
+    "react-icons": "^4.9.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.12.0",
+    "sort-by": "^1.2.0",
+    "sweetalert2": "^11.7.12",
+    "swiper": "^9.3.2",
+    "typewriter-effect": "^2.20.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.0.3",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.2.0"
+  }
+}
